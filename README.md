@@ -18,6 +18,7 @@ style.css: The CSS file responsible for styling the website elements, ensuring v
 Setup Instructions:
 
 Clone the Repository: Start by cloning this repository to your local machine using Git.
+
 git clone https://github.com/your-username/myanime-website.git
 
 Navigate to the Directory: Enter the directory of the cloned repository.
