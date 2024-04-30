@@ -2,7 +2,8 @@
 A website that scales responsively
 
 Features:
-Responsive Design: The website is designed to adapt to different screen sizes, ensuring a consistent viewing experience across devices.
+Responsive Design:
+The website is designed to adapt to different screen sizes, ensuring a consistent viewing experience across devices.
 
 Project Structure:
 index.html: This file contains the structure of the website, including HTML markup for content and layout.
